@@ -18,5 +18,5 @@ A hybrid plagiarism detection system combining Control Flow Graph analysis and s
 ## Applications
 - Academic plagiarism detection
 - Code review and duplicate detection
-- Competitive programming cheating detection
+- Coding contests cheating detection
 
