@@ -20,8 +20,3 @@ A hybrid plagiarism detection system combining Control Flow Graph analysis and s
 - Code review and duplicate detection
 - Competitive programming cheating detection
 
-## Author
-**Praveen** - [GitHub](https://github.com/praveengithubuser)
-
-Built with C++, Graph Theory, and Pattern Recognition
-
